@@ -1,0 +1,1 @@
+[30-Jan-2013 21:07:36] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 2960 bytes) in /home7/tothongc/public_html/piyatas/wp-includes/media.php on line 937
