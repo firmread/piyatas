@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+piyatas.tothong.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+piyatas.tothong.com	TRUE	/	FALSE	1999999999	jetpack_sso_redirect_to	+
+

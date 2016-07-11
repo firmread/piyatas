@@ -1,0 +1,131 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 11 Jul 2016 06:01:45 at piyatas.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" piyatas.tothong.com -O1 "Y:\Downloads\My Web Sites\piyatas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:01:52	Error: 	"Method Not Allowed" (405) at link piyatas.tothong.com/xmlrpc.php (from piyatas.tothong.com/)
+06:02:24	Error: 	"Not Found" (404) at link piyatas.tothong.com/wp-content/themes/More/assets/img/bl.png (from piyatas.tothong.com/wp-content/themes/More/assets/css/main.css?ver=4.4.2)
+06:02:35	Error: 	"Not Found" (404) at link piyatas.tothong.com/portfolio/feed/ (from piyatas.tothong.com/portfolio/)
+06:04:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 6348175 got 661159): piyatas.tothong.com/wp-content/uploads/2013/01/scholars_tc_01.jpg
+06:05:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 4819613 got 3759900): piyatas.tothong.com/wp-content/uploads/2013/01/scholars_tc_04.jpg
+06:05:59	Warning: 	Retry after error -4 (Incorrect length (4848361 Bytes, 5003325 expected)) at link piyatas.tothong.com/wp-content/uploads/2013/01/Glai.jpg (from piyatas.tothong.com/portfolio/)
+06:07:23	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-young-arts-network/?share=twitter
+06:07:23	Warning: 	File has moved from piyatas.tothong.com/wireframing-young-arts-network/?share=twitter to https://twitter.com/intent/tweet?text=Wireframing%20Young%20Arts%20Network&url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-young-arts-network%2F
+06:07:23	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-young-arts-network/?share=facebook
+06:07:23	Warning: 	File has moved from piyatas.tothong.com/wireframing-young-arts-network/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-young-arts-network%2F&t=Wireframing%20Young%20Arts%20Network
+06:07:23	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-young-arts-network/?share=google-plus-1
+06:07:23	Warning: 	File has moved from piyatas.tothong.com/wireframing-young-arts-network/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-young-arts-network%2F
+06:07:24	Warning: 	Moved Temporarily for piyatas.tothong.com/new-look-of-tc-record-website/?share=twitter
+06:07:24	Warning: 	File has moved from piyatas.tothong.com/new-look-of-tc-record-website/?share=twitter to https://twitter.com/intent/tweet?text=New%20look%20of%20TC%20Record%20Website&url=http%3A%2F%2Fpiyatas.tothong.com%2Fnew-look-of-tc-record-website%2F
+06:07:24	Warning: 	Moved Temporarily for piyatas.tothong.com/new-look-of-tc-record-website/?share=facebook
+06:07:24	Warning: 	File has moved from piyatas.tothong.com/new-look-of-tc-record-website/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fnew-look-of-tc-record-website%2F&t=New%20look%20of%20TC%20Record%20Website
+06:07:25	Warning: 	Moved Temporarily for piyatas.tothong.com/new-look-of-tc-record-website/?share=google-plus-1
+06:07:25	Warning: 	File has moved from piyatas.tothong.com/new-look-of-tc-record-website/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fnew-look-of-tc-record-website%2F
+06:07:27	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-ufr-network/?share=twitter
+06:07:27	Warning: 	File has moved from piyatas.tothong.com/wireframing-ufr-network/?share=twitter to https://twitter.com/intent/tweet?text=Wireframing%20UFR%20network&url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-ufr-network%2F
+06:07:27	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-ufr-network/?share=facebook
+06:07:27	Warning: 	File has moved from piyatas.tothong.com/wireframing-ufr-network/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-ufr-network%2F&t=Wireframing%20UFR%20network
+06:07:27	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-ufr-network/?share=google-plus-1
+06:07:27	Warning: 	File has moved from piyatas.tothong.com/wireframing-ufr-network/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-ufr-network%2F
+06:07:28	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-oriental-escapes-website/?share=twitter
+06:07:28	Warning: 	File has moved from piyatas.tothong.com/wireframing-oriental-escapes-website/?share=twitter to https://twitter.com/intent/tweet?text=Wireframing%20Oriental%20Escapes%20Website&url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-oriental-escapes-website%2F
+06:07:28	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-oriental-escapes-website/?share=facebook
+06:07:28	Warning: 	File has moved from piyatas.tothong.com/wireframing-oriental-escapes-website/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-oriental-escapes-website%2F&t=Wireframing%20Oriental%20Escapes%20Website
+06:07:31	Warning: 	Moved Temporarily for piyatas.tothong.com/wireframing-oriental-escapes-website/?share=google-plus-1
+06:07:31	Warning: 	File has moved from piyatas.tothong.com/wireframing-oriental-escapes-website/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fwireframing-oriental-escapes-website%2F
+06:07:31	Error: 	"Not Found" (404) at link piyatas.tothong.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Julaa)
+06:07:32	Error: 	"Not Found" (404) at link piyatas.tothong.com/g.gif (from stats.wp.com/e-201628.js)
+06:07:32	Error: 	"Not Found" (404) at link piyatas.tothong.com/c.gif (from stats.wp.com/e-201628.js)
+06:07:32	Warning: 	Retry after error -4 (Incorrect length (661159 Bytes, 6348175 expected)) at link piyatas.tothong.com/wp-content/uploads/2013/01/scholars_tc_01.jpg (from piyatas.tothong.com/portfolio/scholars-at-tc/)
+06:07:32	Warning: 	Retry after error -4 (Incorrect length (3759900 Bytes, 4819613 expected)) at link piyatas.tothong.com/wp-content/uploads/2013/01/scholars_tc_04.jpg (from piyatas.tothong.com/portfolio/scholars-at-tc/)
+06:08:24	Warning: 	Moved Temporarily for piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=twitter
+06:08:24	Warning: 	File has moved from piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=twitter to https://twitter.com/intent/tweet?text=The%20125th%20Anniversary%20of%20TC%20Exhibition%20Poster&url=http%3A%2F%2Fpiyatas.tothong.com%2Fthe-125th-anniversary-of-tc-exhibition-poster%2F
+06:08:24	Warning: 	Moved Temporarily for piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=facebook
+06:08:24	Warning: 	File has moved from piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fthe-125th-anniversary-of-tc-exhibition-poster%2F&t=The%20125th%20Anniversary%20of%20TC%20Exhibition%20Poster
+06:08:26	Warning: 	Moved Temporarily for piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=google-plus-1
+06:08:26	Warning: 	File has moved from piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fthe-125th-anniversary-of-tc-exhibition-poster%2F
+06:08:29	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=twitter
+06:08:29	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=twitter to https://twitter.com/intent/tweet?text=Sitemap%20of%20iPhone%20App%20for%20Nok%20Airlines&url=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-iphone-app-for-nok-airlines%2F
+06:08:31	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=facebook
+06:08:31	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-iphone-app-for-nok-airlines%2F&t=Sitemap%20of%20iPhone%20App%20for%20Nok%20Airlines
+06:08:32	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=google-plus-1
+06:08:32	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-iphone-app-for-nok-airlines%2F
+06:08:32	Warning: 	HTML file (4761 bytes) retransferred due to lack of cache: piyatas.tothong.com/portfolio/ไกล-glai-distant/
+06:08:34	Warning: 	Moved Permanently for piyatas.tothong.com/portfolio/ไกล-glai-distant/
+06:08:34	Warning: 	File has moved from piyatas.tothong.com/portfolio/ไกล-glai-distant/ to http://piyatas.tothong.com/portfolio/glai-distant/
+06:08:36	Warning: 	Moved Temporarily for piyatas.tothong.com/glai-behind-the-scene/?share=twitter
+06:08:36	Warning: 	File has moved from piyatas.tothong.com/glai-behind-the-scene/?share=twitter to https://twitter.com/intent/tweet?text=Glai%20behind%20the%20Scene&url=http%3A%2F%2Fpiyatas.tothong.com%2Fglai-behind-the-scene%2F
+06:08:38	Warning: 	Moved Temporarily for piyatas.tothong.com/glai-behind-the-scene/?share=facebook
+06:08:38	Warning: 	File has moved from piyatas.tothong.com/glai-behind-the-scene/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fglai-behind-the-scene%2F&t=Glai%20behind%20the%20Scene
+06:08:39	Warning: 	Moved Temporarily for piyatas.tothong.com/glai-behind-the-scene/?share=google-plus-1
+06:08:39	Warning: 	File has moved from piyatas.tothong.com/glai-behind-the-scene/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fglai-behind-the-scene%2F
+06:08:41	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai02.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:41	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai02.jpg?resize=460%2C379 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:42	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6984.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:42	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6984.jpg?resize=460%2C344 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:42	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6985.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:43	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6985.jpg?resize=460%2C344 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:43	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6987.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:43	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6987.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:44	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6986.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:44	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/img_6986.jpg?resize=460%2C344 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:45	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/screen-shot-2011-04-04-at-12-59-35-am.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:46	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/screen-shot-2011-04-04-at-12-59-35-am.jpg?resize=460%2C415 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:47	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai01.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:47	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai01.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:49	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai021.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:49	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai021.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:50	Error: 	"Bad Request" (400) at link i0.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai03.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:50	Error: 	"Bad Request" (400) at link i0.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai03.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:51	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai04.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:52	Error: 	"Bad Request" (400) at link i1.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai04.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:53	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai06.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:53	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai06.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:53	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai.jpg (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:54	Error: 	"Bad Request" (400) at link i2.wp.com/aimeedda.files.wordpress.com/2011/04/aimeepiyatastantanapornchai.jpg?resize=460%2C345 (from piyatas.tothong.com/two-behind-the-scene/)
+06:08:55	Warning: 	Moved Temporarily for piyatas.tothong.com/two-behind-the-scene/?share=twitter
+06:08:55	Warning: 	File has moved from piyatas.tothong.com/two-behind-the-scene/?share=twitter to https://twitter.com/intent/tweet?text=TWO%20behind%20the%20Scene&url=http%3A%2F%2Fpiyatas.tothong.com%2Ftwo-behind-the-scene%2F
+06:08:56	Warning: 	Moved Temporarily for piyatas.tothong.com/two-behind-the-scene/?share=facebook
+06:08:56	Warning: 	File has moved from piyatas.tothong.com/two-behind-the-scene/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Ftwo-behind-the-scene%2F&t=TWO%20behind%20the%20Scene
+06:08:56	Warning: 	Moved Temporarily for piyatas.tothong.com/two-behind-the-scene/?share=google-plus-1
+06:08:56	Warning: 	File has moved from piyatas.tothong.com/two-behind-the-scene/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Ftwo-behind-the-scene%2F
+06:08:57	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-farmer-info-app/?share=twitter
+06:08:57	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-farmer-info-app/?share=twitter to https://twitter.com/intent/tweet?text=Sitemap%20of%20Farmer%20Info%20App&url=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-farmer-info-app%2F
+06:08:58	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-farmer-info-app/?share=facebook
+06:08:58	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-farmer-info-app/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-farmer-info-app%2F&t=Sitemap%20of%20Farmer%20Info%20App
+06:08:58	Warning: 	Moved Temporarily for piyatas.tothong.com/sitemap-of-farmer-info-app/?share=google-plus-1
+06:08:58	Warning: 	File has moved from piyatas.tothong.com/sitemap-of-farmer-info-app/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Fsitemap-of-farmer-info-app%2F
+06:09:26	Warning: 	Moved Temporarily for piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=twitter
+06:09:26	Warning: 	File has moved from piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=twitter to https://twitter.com/intent/tweet?text=Tangerhyne%20in%20TCDC%20Booklet&url=http%3A%2F%2Fpiyatas.tothong.com%2Ftangerhyne-in-tcdc-booklet%2F
+06:09:27	Warning: 	Moved Temporarily for piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=facebook
+06:09:27	Warning: 	File has moved from piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpiyatas.tothong.com%2Ftangerhyne-in-tcdc-booklet%2F&t=Tangerhyne%20in%20TCDC%20Booklet
+06:09:29	Warning: 	Moved Temporarily for piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=google-plus-1
+06:09:29	Warning: 	File has moved from piyatas.tothong.com/tangerhyne-in-tcdc-booklet/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fpiyatas.tothong.com%2Ftangerhyne-in-tcdc-booklet%2F
+06:09:34	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-young-arts-network/
+06:09:34	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-young-arts-network/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=radzaozd8wzy4g5fvhta
+06:09:37	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/new-look-of-tc-record-website/
+06:09:37	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/new-look-of-tc-record-website/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=dxy5fuzl74ap0iqwqtx3
+06:09:39	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-ufr-network/
+06:09:39	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-ufr-network/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=ph45rdtcdutsdtnkhjmp
+06:09:42	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-oriental-escapes-website/
+06:09:42	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/wireframing-oriental-escapes-website/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=dijsmhnf3l9pekblutok
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/the-125th-anniversary-of-tc-exhibition-poster/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=wdgwaqow31nikrq4u7pu
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/sitemap-of-iphone-app-for-nok-airlines/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=vsnevjyu5ehmp2avsuf2
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/glai-behind-the-scene/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/glai-behind-the-scene/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=wq0lduczxxdnh6voembk
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/two-behind-the-scene/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/two-behind-the-scene/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=2kuuc7niflpbafvr9caq
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/sitemap-of-farmer-info-app/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/sitemap-of-farmer-info-app/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=a84kv6pmahat3nvdure4
+06:14:09	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/tangerhyne-in-tcdc-booklet/
+06:14:09	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso&redirect_to=http://piyatas.tothong.com/tangerhyne-in-tcdc-booklet/ to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=0nqvftcpruiqzseqpjte
+06:14:11	Warning: 	Moved Temporarily for piyatas.tothong.com/wp-login.php?action=jetpack-sso
+06:14:11	Warning: 	File has moved from piyatas.tothong.com/wp-login.php?action=jetpack-sso to https://wordpress.com/wp-login.php?action=jetpack-sso&site_id=94052015&sso_nonce=setzcjtk6chprvt9p8kl
+
+HTTrack Website Copier/3.48-22 mirror complete in 12 minutes 26 seconds : 774 links scanned, 698 files written (120883370 bytes overall), 239 files updated [16982806 bytes received at 22765 bytes/sec], 2377890 bytes transferred using HTTP compression in 192 files, ratio 26%, 3.5 requests per connection
+(30 errors, 90 warnings, 0 messages)
